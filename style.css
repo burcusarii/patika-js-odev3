@@ -35,7 +35,7 @@ li {
 .btn-style {
   border: #ff6a23 2px solid;
   border-radius: 10px;
-  width: 8%;
+  width: 100px;
 }
 
 .btn-style:hover{
